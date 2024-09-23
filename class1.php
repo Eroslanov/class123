@@ -61,10 +61,10 @@ class Library {
     }
 }
 
-// Основная программа
+
 $library = new Library();
 
-// Главный цикл меню
+
 while (true) {
     echo "Выберите действие:\n";
     echo "1. Добавить книгу\n";
